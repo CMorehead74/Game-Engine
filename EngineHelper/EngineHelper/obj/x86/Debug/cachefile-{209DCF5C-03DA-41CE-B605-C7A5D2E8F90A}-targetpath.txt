@@ -1,0 +1,15 @@
+Content\Fonts\SpriteFont1.xnb
+Content\Graphics\IntroBackground.xnb
+Content\Fonts\FPSFont.xnb
+Content\Sounds\SFX_BUTTONSELECT.xnb
+Content\Sounds\SFX_SELECTHIGHLIGHT.xnb
+Content\Sounds\SFX_STORE.xnb
+Content\Graphics\creditsSelectedButton.xnb
+Content\Graphics\creditsUnSelectedButton.xnb
+Content\Graphics\exitSelectedButton.xnb
+Content\Graphics\exitUnSelectedButton.xnb
+Content\Graphics\howToSelectedButton.xnb
+Content\Graphics\howToUnSelectedButton.xnb
+Content\Graphics\playSelectedButton.xnb
+Content\Graphics\playUnSelectedButton.xnb
+Content\Graphics\MainMenuBackground.xnb
