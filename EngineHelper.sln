@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngineHelper", "EngineHelper\EngineHelper\EngineHelper.csproj", "{595BDBC5-79E1-4290-A155-68A239C9E315}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "EngineHelperContent", "EngineHelper\EngineHelperContent\EngineHelperContent.contentproj", "{209DCF5C-03DA-41CE-B605-C7A5D2E8F90A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{595BDBC5-79E1-4290-A155-68A239C9E315}.Debug|x86.ActiveCfg = Debug|x86
+		{595BDBC5-79E1-4290-A155-68A239C9E315}.Debug|x86.Build.0 = Debug|x86
+		{595BDBC5-79E1-4290-A155-68A239C9E315}.Release|x86.ActiveCfg = Release|x86
+		{595BDBC5-79E1-4290-A155-68A239C9E315}.Release|x86.Build.0 = Release|x86
+		{209DCF5C-03DA-41CE-B605-C7A5D2E8F90A}.Debug|x86.ActiveCfg = Debug|x86
+		{209DCF5C-03DA-41CE-B605-C7A5D2E8F90A}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
