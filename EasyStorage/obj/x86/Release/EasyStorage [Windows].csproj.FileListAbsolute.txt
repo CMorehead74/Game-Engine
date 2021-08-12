@@ -1,0 +1,46 @@
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\EasyStorage.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\EasyStorage.pdb
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\bin\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.Strings.resources
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.Strings.de.resources
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.Strings.es.resources
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.Strings.fr.resources
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.Strings.it.resources
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.Strings.ja.resources
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage [Windows].csproj.GenerateResource.Cache
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\de\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\es\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\it\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.dll
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage.pdb
+C:\Users\Morehead\Desktop\Spyfall\EasyStorage\obj\x86\Release\EasyStorage [Windows].csprojResolveAssemblyReference.cache
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\EasyStorage.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\EasyStorage.pdb
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\de\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\es\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\it\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\bin\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage [Windows].csprojResolveAssemblyReference.cache
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.Strings.resources
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.Strings.de.resources
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.Strings.es.resources
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.Strings.fr.resources
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.Strings.it.resources
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.Strings.ja.resources
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage [Windows].csproj.GenerateResource.Cache
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\de\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\es\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\fr\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\it\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\ja\EasyStorage.resources.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.dll
+C:\Users\cmorehead\Desktop\Research\Projects\EasyStorage\obj\x86\Release\EasyStorage.pdb
